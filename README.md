@@ -21,7 +21,7 @@ Los proyectos públicos tienen pruebas automáticas en GitHub y ejemplos que se 
 
 ## Otros proyectos
 
-También tengo proyectos privados: DocBot, CV Generator AI, Control PyME e InmoFlow. El código no está publicado en este perfil.
+También trabajo en herramientas para leer documentos, preparar CV, llevar un negocio y ordenar operaciones inmobiliarias. Esos repositorios son privados.
 
 ## Contacto
 
