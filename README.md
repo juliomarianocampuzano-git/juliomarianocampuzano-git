@@ -1,29 +1,28 @@
 # Julio Mariano Campuzano
 
-Data Analyst & AI Automation Specialist | Python - SQL - Power BI - Pandas
+Análisis de datos y automatización. Python, SQL, Excel y Power BI.
 
-I build data solutions that cut manual work, organize information and speed up decision-making. More than 8 years of experience in information control, reporting and process optimization across the public sector, logistics and real estate. Open to remote work, EU and LATAM.
+Acá reúno proyectos para trabajar con datos, preparar reportes y resolver tareas de uso cotidiano. Cada repositorio incluye instrucciones, datos de ejemplo y pruebas para poder revisarlo y usarlo.
 
-## What I do
+## Proyectos
 
-Data analysis and cleaning with Python, Pandas, NumPy, SQL and advanced Excel. Business Intelligence with Power BI dashboards, KPIs and management reporting. Process automation with Python, n8n and API integrations, achieving up to 60% less manual work. AI-driven tools built with ChatGPT, Claude and Gemini for analysis and product development. End-to-end web apps with Flask and Streamlit, deployed and documented.
+| Proyecto | Qué hace | Código e instrucciones |
+| --- | --- | --- |
+| Registro de gastos | Guarda gastos del hogar, muestra totales por categoría y exporta los movimientos a CSV. | [registro-gastos](https://github.com/juliomarianocampuzano-git/registro-gastos) |
+| Reportes CSV | Revisa archivos CSV, calcula totales con SQL y genera un resumen. Incluye un ejemplo de facturas. | [reportes-csv](https://github.com/juliomarianocampuzano-git/reportes-csv) |
+| Búsqueda laboral | Compara un CV con avisos de RemoteOK y muestra las habilidades que tienen en común. | [busqueda-laboral](https://github.com/juliomarianocampuzano-git/busqueda-laboral) |
+| Pendientes | Guarda tareas por fecha, permite marcarlas como hechas y exporta una lista HTML. | [pendientes](https://github.com/juliomarianocampuzano-git/pendientes) |
 
-## Featured projects
+## Herramientas
 
-DocBot - Web tool that reads invoices and receipts with AI. It extracts vendor, date, amounts and tax, classifies them into a chart of accounts and exports to Excel, PDF or CSV. Includes an AI Accountant that answers questions about your own expenses. Built for LATAM SMEs and accountants. Stack: Python, Flask, Claude API, PostgreSQL, Render. Live demo: https://docbot-saas.onrender.com
+Python, SQL, Pandas, Excel, Power BI, SQLite, Flask, HTML, CSS y JavaScript.
 
-CV Generator AI - Web app that generates professional CVs in HTML, auto-detecting the best visual style for each profession, with cover-letter generation and full customization.
+Los proyectos públicos tienen pruebas automáticas en GitHub y ejemplos que se pueden usar sin cargar datos personales.
 
-Control PyME Inteligente - Offline management system for small businesses: invoicing, inventory with stock alerts, financial control, client CRM and exportable reports. Runs fully in the browser with local and secure storage.
+## Otros proyectos
 
-InmoFlow - Automation for the real estate sector: it processes data, organizes contacts, records leads and automates follow-up.
+También tengo proyectos privados: DocBot, CV Generator AI, Control PyME e InmoFlow. El código no está publicado en este perfil.
 
-## Tech stack
+## Contacto
 
-Python, SQL, Power BI, Pandas, NumPy, Excel, Streamlit, Flask, n8n, Git and GitHub, Generative AI, HTML and CSS.
-
-## Let's connect
-
-LinkedIn: https://www.linkedin.com/in/juliomcampuzano
-
-Email: juliomarianocampuzano@gmail.com
+[LinkedIn](https://www.linkedin.com/in/juliomcampuzano) · [Correo](mailto:juliomarianocampuzano@gmail.com)
