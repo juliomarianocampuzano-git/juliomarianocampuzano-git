@@ -8,6 +8,7 @@ Convierto trabajo manual en procesos que se hacen solos: datos ordenados, report
 
 [![Web y portfolio](https://img.shields.io/badge/Web_y_portfolio-Ver_sitio-FF6B2C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/)
 [![Portfolio](https://img.shields.io/badge/61_proyectos-con_demo-6A3DF0?style=for-the-badge&logo=bookstack&logoColor=white)](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/)
+[![Sitios web](https://img.shields.io/badge/20_sitios_web-por_rubro-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomcampuzano)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribime-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493764148342)
 
@@ -21,9 +22,25 @@ Convierto trabajo manual en procesos que se hacen solos: datos ordenados, report
 
 - 🤖 Automatizo procesos con **IA**: asistentes de WhatsApp, flujos con n8n y búsqueda en documentos con fuentes (RAG).
 - 📊 Trabajo con **datos**: ETL, validación, KPIs y tableros en **Power BI**, con Python y SQL.
-- 🌐 Desarrollo **webs y apps** para negocios: catálogos, tótems de autoservicio y paneles de gestión.
+- 🌐 Desarrollo **webs y apps** para negocios, pensadas primero para el celular: catálogos, turnos online, tótems de autoservicio y paneles de gestión.
 - 🗂️ Vengo del control documental y las operaciones, así que pienso cada herramienta desde el problema real del negocio.
 - 🎓 Estudio **Ingeniería en Inteligencia Artificial**.
+
+## 🌐 Sitios web para negocios · hechos para celular
+
+[20 sitios web demo](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/), uno por rubro, cada uno con su diseño, colores, animaciones y funciones que se pueden probar. Todos están **diseñados primero para el celular** (barra de acción fija, botones grandes, formularios sin zoom) y controlados automáticamente en 360 y 390 px.
+
+[![Cinco sitios vistos en celular](https://raw.githubusercontent.com/juliomarianocampuzano-git/Portfolio-Julio-Mariano-Campuzano/main/docs/img/celulares.jpg)](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/)
+
+| Rubro | Demo | Para probar |
+| --- | --- | --- |
+| 🚗 Concesionaria | [Austral Motors](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/austral-motors/) | Auto 3D que cambia de color, catálogo, simulador de cuotas |
+| 🐾 Veterinaria | [Patita](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/patita-vet/) | Turnos, fichas con vacunas, recetas en PDF |
+| 🩺 Consultorio | [Centro Médico Alba](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/centro-medico-alba/) + [panel de gestión](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/panel-alba/) | Turnos online que aparecen en el panel interno |
+| 🍕 Pizzería | [Fuego Pizza](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/fuego-pizza/) | Armador de pizza, carrito, seguimiento del pedido |
+| 🏡 Inmobiliaria | [Habitar](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/habitar-propiedades/) | Catálogo con filtros y simulador de cuotas |
+
+👉 [Ver los 20 sitios](https://juliomarianocampuzano-git.github.io/Portfolio-Julio-Mariano-Campuzano/portfolio/sitios/) · Negocios ficticios, creados para mostrar diseño y funciones.
 
 ## 🏆 Entregado a clientes
 
